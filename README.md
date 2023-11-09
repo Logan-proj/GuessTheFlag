@@ -2,8 +2,6 @@
 
 "GuessTheFlag" is a SwiftUI-based game that challenges players to identify flags from various countries. 
 
-![GuessTheFlag Screenshot](https://user-images.githubusercontent.com/79545798/281597943-a25d1d17-40a8-4834-9f60-7659490910f0.png)
-
 ## Credits and Acknowledgements
 
 "GuessTheFlag" was developed as a code-along project following the tutorials provided by [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui). It's a part of their "100 Days of SwiftUI" challenge, which offers comprehensive, hands-on lessons on SwiftUI.
@@ -19,6 +17,15 @@ Thanks again to [Hacking with Swift](https://www.hackingwithswift.com) for provi
 - **Game Over Logic**: Ends the game after a certain number of rounds and presents the final score.
 - **Restart Game**: Allows players to restart the game after it ends.
 - **Dynamic Alerts**: Shows alerts to give feedback on the user's selection—correct or incorrect.
+
+## Screenshots
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79545798/281601564-6e4f7abd-1c53-4aed-aeec-02933bd2d6bf.png" alt="Choice screen" width="200"/>
+  <img src="https://user-images.githubusercontent.com/79545798/281601608-78ea1f10-1d2d-4387-8509-a43bb6b87a49.png" alt="Correct" width="200"/>
+  <img src="https://user-images.githubusercontent.com/79545798/281601632-d41ef3b8-3cce-47f3-a630-782f2f1ec06f.png" alt="Wrong" width="200"/>
+  <img src="https://user-images.githubusercontent.com/79545798/281601650-703dc363-be83-4718-9de8-7e218be2ae02.png" alt="Game Over" width="200"/>
+</p>
 
 ## What I Learned
 
