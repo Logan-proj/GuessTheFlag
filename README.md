@@ -1,5 +1,3 @@
-Based on the structure of your previous GitHub project README for "WeSplit-App," here's how you can structure the README for your "GuessTheFlag" project:
-
 # GuessTheFlag
 
 "GuessTheFlag" is a SwiftUI-based game that challenges players to identify flags from various countries. 
