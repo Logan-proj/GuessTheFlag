@@ -2,6 +2,8 @@
 
 "GuessTheFlag" is a SwiftUI-based game that challenges players to identify flags from various countries. 
 
+![GuessTheFlag Screenshot](https://user-images.githubusercontent.com/79545798/281597943-a25d1d17-40a8-4834-9f60-7659490910f0.png)
+
 ## Credits and Acknowledgements
 
 "GuessTheFlag" was developed as a code-along project following the tutorials provided by [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui). It's a part of their "100 Days of SwiftUI" challenge, which offers comprehensive, hands-on lessons on SwiftUI.
