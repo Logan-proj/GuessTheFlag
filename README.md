@@ -4,9 +4,11 @@
 
 ## Credits and Acknowledgements
 
-"GuessTheFlag" was developed as part of my journey through learning SwiftUI, with inspiration from various online resources and tutorials. It represents one of the many projects in my endeavor to deepen my understanding of SwiftUI and its application in iOS development.
+"GuessTheFlag" was developed as a code-along project following the tutorials provided by [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui). It's a part of their "100 Days of SwiftUI" challenge, which offers comprehensive, hands-on lessons on SwiftUI.
 
-A special thanks to the online programming community and the numerous sample projects and documentation available for SwiftUI which have been instrumental in the creation of this game.
+This project provided an excellent opportunity to explore the intricacies of SwiftUI, guided by the resources and tutorials provided by Hacking with Swift. The step-by-step approach ensured that every concept and its implementation were thoroughly understood.
+
+Thanks again to [Hacking with Swift](https://www.hackingwithswift.com) for providing this educational content for beginners.
 
 ## Features
 
